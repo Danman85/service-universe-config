@@ -1,4 +1,6 @@
-management:
+
+# Deprecated: is to be included in the default 'application.yml'
+# Will be removed once discovery and admin services are dockerized
   endpoints:
     web:
       exposure:
